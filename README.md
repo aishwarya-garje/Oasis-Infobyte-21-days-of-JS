@@ -3,6 +3,8 @@
 A straightforward web-based password generator that allows users to quickly generate strong and secure passwords with customization options.
 
 
+![Browser Screenshot](Screenshot/Browser.png)
+![Password Screenshot](Screenshot/Password.png)
 
 
 ## Features
@@ -15,7 +17,7 @@ A straightforward web-based password generator that allows users to quickly gene
 
 ## Technologies Used
 
-- HTML
+- HTML 
 - CSS
 - JavaScript
 
